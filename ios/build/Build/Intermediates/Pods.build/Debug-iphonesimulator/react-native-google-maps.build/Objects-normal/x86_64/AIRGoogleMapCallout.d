@@ -1,0 +1,17 @@
+dependencies: \
+  /Users/sergey/mymaps/node_modules/react-native-maps/lib/ios/AirGoogleMaps/AIRGoogleMapCallout.m \
+  /Users/sergey/mymaps/ios/Pods/Target\ Support\ Files/react-native-google-maps/react-native-google-maps-prefix.pch \
+  /Users/sergey/mymaps/node_modules/react-native-maps/lib/ios/AirGoogleMaps/AIRGoogleMapCallout.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTView.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTInvalidating.h

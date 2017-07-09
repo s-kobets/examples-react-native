@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/sergey/mymaps/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.m \
+  /Users/sergey/mymaps/ios/Pods/Target\ Support\ Files/react-native-maps/react-native-maps-prefix.pch \
+  /Users/sergey/mymaps/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h \
+  /Users/sergey/mymaps/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTView.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/sergey/mymaps/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
+  /Users/sergey/mymaps/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
+  /Users/sergey/mymaps/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/sergey/mymaps/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/sergey/mymaps/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/sergey/mymaps/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sergey/mymaps/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/sergey/mymaps/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTURLRequestHandler.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Base/RCTURLRequestDelegate.h \
+  /Users/sergey/mymaps/node_modules/react-native/React/Views/UIView+React.h
