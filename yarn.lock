@@ -3193,6 +3193,13 @@ react-native-svg@^4.3.1:
     color "^0.11.1"
     lodash "^4.0.0"
 
+react-native-svg@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-5.3.0.tgz#0d2ca98bee6726d627c2ca31617ac9c5f7d42daf"
+  dependencies:
+    color "^0.11.1"
+    lodash "^4.16.6"
+
 react-native@0.46.0:
   version "0.46.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.46.0.tgz#07dd7045ad905433fe5256d32023bbd794f7d1f5"

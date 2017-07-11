@@ -5,12 +5,12 @@
  */
 
 import React, { Component } from 'react';
-import { View, StyleSheet } from 'react-native';
+import { View, StyleSheet, Image } from 'react-native';
 import MapView from 'react-native-maps';
 import markers from '../data'
 // import SvgUri from 'react-native-svg-uri';
-
-// console.log(1234, SvgUri)
+import markerView from '../src/image/mumimaps_placemark.svg'
+console.log(1234, markerView)
 
 export default class Map extends Component {
   render() {
@@ -21,8 +21,10 @@ export default class Map extends Component {
           latitude: marker.latitude,
           longitude: marker.longitude,
         }}
+        image={require('../src/image/mumimaps_placemark.svg')}
       >
         <View style={styles.marker}>
+          {/*<Image source={markerView} />*/}
           {/*<SvgUri
             width="30"
             height="30"
@@ -38,8 +40,8 @@ export default class Map extends Component {
           initialRegion={{
             latitude: 55.636809,
             longitude: 37.354303,
-            latitudeDelta: 0.0922,
-            longitudeDelta: 0.0421,
+            latitudeDelta: 1,
+            longitudeDelta: 1,
           }}
         >
         { markersView }
@@ -60,9 +62,8 @@ const styles = StyleSheet.create({
   radius: {
   },
   marker: {
-    height: 30,
     width: 30,
-    borderRadius: 50/2,
-    backgroundColor: 'red',
+    height: 30,
+    // backgroundColor: 'red',
   }
 });
