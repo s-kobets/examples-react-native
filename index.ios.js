@@ -9,7 +9,8 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  Image,
 } from 'react-native';
 import Map from './components/map';
 
@@ -18,6 +19,7 @@ export default class mymaps extends Component {
   render() {
     return (
       <View style={styles.container}>
+        <Image style={styles.marker} source={require('./src/image/mumimaps_placemark.svg')} />
         <Map />
       </View>
     );
