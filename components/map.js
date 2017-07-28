@@ -8,7 +8,9 @@ import React, { Component } from 'react';
 import { View, StyleSheet, Image } from 'react-native';
 import MapView from 'react-native-maps';
 import markers from '../data'
-// import SvgUri from 'react-native-svg-uri';
+import SvgUri from 'react-native-svg-uri';
+
+const placemark = require('../src/image/mumimaps_placemark.svg')
 
 export default class Map extends Component {
   state = {
@@ -38,7 +40,7 @@ export default class Map extends Component {
   }
 
   render() {
-    console.log(12345, this.state.region)
+    console.log(12345, placemark)
     const markersView = markers.map((marker, index) =>
       <MapView.Marker
         key={`marker-state-${index}`}
@@ -48,7 +50,8 @@ export default class Map extends Component {
         }}
       >
         <View>
-          <Image style={styles.marker} source={require('../src/image/mumimaps_placemark.svg')} />
+          <SvgUri width="30" height="30" svgXmlData={placemark} />
+          {/*<SvgUri style={styles.marker} source={require('../src/image/mumimaps_placemark.svg')} />*/}
         </View>
       </MapView.Marker>
     )

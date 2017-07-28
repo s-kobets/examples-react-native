@@ -12,6 +12,7 @@ import {
   View,
   Image,
 } from 'react-native';
+import Header from './components/header';
 import Map from './components/map';
 
 export default class mymaps extends Component {
@@ -19,6 +20,7 @@ export default class mymaps extends Component {
     return (
       <View style={styles.container}>
         {/*<Image style={styles.marker} source={require('./src/image/mumimaps_placemark.svg')} />*/}
+        <Header />
         <Map />
       </View>
     );
